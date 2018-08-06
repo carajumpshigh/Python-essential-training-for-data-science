@@ -178,15 +178,3 @@ plt.plot(standardized_mpg)
 standardized_mpg = scale(mpg)
 plt.plot(standardized_mpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
