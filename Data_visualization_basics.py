@@ -163,24 +163,3 @@ cars.boxplot(column='mpg',by='am')
 cars.boxplot(column='wt',by='am')
 sb.boxplot(x='am',y='mpg',data=cars,palette='hls')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
