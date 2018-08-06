@@ -83,32 +83,3 @@ print(cars.head())
 cars_groups = cars.groupby(cars['cyl'])
 print(cars_groups.mean())
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
