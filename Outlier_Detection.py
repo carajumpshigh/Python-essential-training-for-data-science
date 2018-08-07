@@ -77,21 +77,3 @@ ax.set_xlabel('Petal Length')
 ax.set_ylabel('Sepal Width')
 plt.title('DBSCAN for Outlier Detection')
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
