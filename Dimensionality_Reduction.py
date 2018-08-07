@@ -72,11 +72,3 @@ comps = pd.DataFrame(pca.components_, columns=variable_names)
 
 sb.heatmap(comps)
 
-
-
-
-
-
-
-
-
